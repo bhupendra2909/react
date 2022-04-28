@@ -69,6 +69,6 @@ function GetCountryData() {
        </div>
      </div>
     </Container>
-  );
+  ); 
 }
 export default GetCountryData;
